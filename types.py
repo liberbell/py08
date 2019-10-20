@@ -13,3 +13,6 @@ def aquire(x):
 
 result = aquire(5)
 print(result)
+
+anotherOne = aquire(result)
+print(anotherOne)

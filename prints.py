@@ -8,4 +8,4 @@ color = input('What is your favorite color? ')
 print(name)
 print(color)
 
-print('Hi! ' + name + color + ' is a great color!')
+print('Hi! ' + name + ' ' + color + ' is a great color!')

@@ -30,3 +30,4 @@ def is_it_raining():
     return raining
 
 monday_raining = is_it_raining()
+print(monday_raining)

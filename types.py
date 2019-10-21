@@ -22,5 +22,5 @@ def sumofSquares(x, y):
     square2 = y * y
     return square1 + square2
 
-result = sumofSquares(10, 20)
+result = sumofSquares(2, 3)
 print(result)

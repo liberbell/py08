@@ -30,3 +30,4 @@ for i in range(100):
         state5 +=1
 
 print('1 is: ', state1)
+print('2 is: ', state2)

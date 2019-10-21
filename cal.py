@@ -12,7 +12,7 @@ number = random.randint(1, 100)
 print(number)
 
 for i in range(100):
-    number = random.randint(1, 100)
+    number = random.randint(1, 5)
     state1 = 0
     state2 = 0
     state3 = 0

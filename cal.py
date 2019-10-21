@@ -31,3 +31,6 @@ for i in range(100):
 
 print('1 is: ', state1)
 print('2 is: ', state2)
+print('3 is: ', state3)
+print('4 is: ', state4)
+print('5 is: ', state5)

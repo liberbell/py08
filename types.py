@@ -24,3 +24,9 @@ def sumofSquares(x, y):
 
 result = sumofSquares(2, 3)
 print(result)
+
+def is_it_raining():
+    raining = input('Is it raining today?')
+    return raining
+
+monday_raining = is_it_raining()

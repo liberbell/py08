@@ -4,3 +4,5 @@ child2_birth = ('Austin', 'Washington Hospital', 'Fremont', 'California', 'Unite
 print(type(child1_birth))
 print(child1_birth)
 print(child2_birth)
+
+print(child1_birth[0])

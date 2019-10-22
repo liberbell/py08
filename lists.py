@@ -11,3 +11,6 @@ print(third_item)
 
 listA[2] = 150
 print(listA)
+
+listB = [True, 'star', 50, 30.333]
+print(type(listB))

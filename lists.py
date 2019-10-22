@@ -14,3 +14,4 @@ print(listA)
 
 listB = [True, 'star', 50, 30.333]
 print(type(listB))
+print(listB)

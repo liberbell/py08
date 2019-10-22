@@ -29,7 +29,7 @@ for i in range(100):
         state4 += 1
     else:
         state5 +=1
-    print(number)
+    # print(number)
 
 print('1 is: ', state1)
 print('2 is: ', state2)

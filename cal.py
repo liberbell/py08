@@ -9,7 +9,7 @@ result = math.sqrt(49)
 print(result)
 
 number = random.randint(1, 100)
-print(number)
+# print(number)
 
 for i in range(100):
     number = random.randint(1, 5)
@@ -29,6 +29,7 @@ for i in range(100):
         state4 += 1
     else:
         state5 +=1
+    print(number)
 
 print('1 is: ', state1)
 print('2 is: ', state2)

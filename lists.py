@@ -8,3 +8,6 @@ print(type(listA))
 
 third_item = listA[2]
 print(third_item)
+
+listA[2] = 150
+print(listA)

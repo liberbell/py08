@@ -4,3 +4,4 @@ print(n)
 
 listA = [5, 10, 15, 20]
 print(listA)
+print(type(listA))

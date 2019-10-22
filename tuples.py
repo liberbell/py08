@@ -6,3 +6,4 @@ print(child1_birth)
 print(child2_birth)
 
 print(child1_birth[0])
+print(child2_birth[6])

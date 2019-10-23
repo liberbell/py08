@@ -15,7 +15,7 @@ state2 = 0
 state3 = 0
 state4 = 0
 state5 = 0
-for i in range(100):
+for i in range(1000):
     number = random.randint(1, 5)
     # print(number)
     if number == 1:

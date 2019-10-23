@@ -10,4 +10,5 @@ def minimum(x, y):
     else:
         return y
 
-minimum(5, 4)
+result = minimum(5, 4)
+print(result)

@@ -12,3 +12,6 @@ def minimum(x, y):
 
 result = minimum(1, 4)
 print(result)
+
+result = minimum(1, 1)
+print(result)

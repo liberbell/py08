@@ -10,15 +10,14 @@ print(result)
 
 number = random.randint(1, 100)
 # print(number)
-
+state1 = 0
+state2 = 0
+state3 = 0
+state4 = 0
+state5 = 0
 for i in range(100):
     number = random.randint(1, 5)
     # print(number)
-    state1 = 0
-    state2 = 0
-    state3 = 0
-    state4 = 0
-    state5 = 0
     if number == 1:
         state1 += 1
     elif number == 2:

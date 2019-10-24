@@ -41,7 +41,7 @@ def abs_val(num):
     else:
         return num
 
-result = abs_val(10)
+result = abs_val(5.4)
 print(result)
 result = abs_val(0)
 print(result)

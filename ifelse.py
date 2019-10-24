@@ -32,3 +32,18 @@ if x < 8:
     print('The number is less than eight.')
 if x < 10:
     print('The number is less than ten.')
+
+def abs_val(num):
+    if num < 0:
+        return -1 * num
+    elif num == 0:
+        return 0
+    else:
+        return num
+
+result = abs_val(10)
+print(resutl)
+result = abs_val(0)
+print(result)
+result = abs_val(-100)
+print(result)

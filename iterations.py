@@ -7,3 +7,6 @@ for character in word:
         vowelcount += 1
 
 print(vowelcount)
+
+for i in range(4):
+    print(i)

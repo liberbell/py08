@@ -16,3 +16,6 @@ elif x < 8:
     print('The number is less than eight.')
 elif x < 10:
     print('The number is less than ten.')
+
+x = 1
+print(float(x))

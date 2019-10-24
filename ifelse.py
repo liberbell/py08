@@ -19,3 +19,5 @@ elif x < 10:
 
 x = 1
 print(float(x))
+x = 1.5
+print(int(x))

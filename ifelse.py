@@ -42,7 +42,7 @@ def abs_val(num):
         return num
 
 result = abs_val(10)
-print(resutl)
+print(result)
 result = abs_val(0)
 print(result)
 result = abs_val(-100)

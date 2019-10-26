@@ -1,5 +1,5 @@
 word = 'ertbnolmnk'
-vowels = {'a', 'e', 'i', 'o', 'u'}
+vowels = ['a', 'e', 'i', 'o', 'u']
 length = len(vowels)
 
 print(length)

@@ -8,11 +8,11 @@ for character in word:
 
 print(vowelcount)
 
-for i in range(4):
-    print(i)
-
-for i in range(1, 8, 2):
-    print(i)
+# for i in range(4):
+#     print(i)
+#
+# for i in range(1, 8, 2):
+#     print(i)
 
 for v in vowels:
     print(v)

@@ -8,3 +8,5 @@ class Dog():
 
 fido = Dog('Fido', 2)
 fido.bark()
+
+print(fido.age)

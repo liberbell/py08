@@ -5,3 +5,6 @@ class Dog():
 
     def bark(self):
         print('Woof woof!')
+
+fido = Dog('Fido', 2)
+fido.bark()

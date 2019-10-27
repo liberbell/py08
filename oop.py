@@ -10,3 +10,6 @@ fido = Dog('Fido', 2)
 fido.bark()
 
 print(fido.age)
+
+fido.age += 1
+print(fido.age)
